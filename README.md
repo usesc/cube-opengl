@@ -20,4 +20,8 @@ DEPENDENCIES:
 - GLEW
 - Make (Build system)
 
-- 
+I VERY STRONGLY RECOMMEND USING YOUR OPERATING SYSTEMS PACKAGE MANAGER, IF YOUR ON WINDOWS JUST USE MSYS2 MINGW.
+
+Anyway heres how to install cglm, glew, glfw for ubuntu (apt)
+
+ sudo apt install libcglm-dev
