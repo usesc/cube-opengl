@@ -24,4 +24,7 @@ I VERY STRONGLY RECOMMEND USING YOUR OPERATING SYSTEMS PACKAGE MANAGER, IF YOUR 
 
 Anyway heres how to install cglm, glew, glfw for ubuntu (apt)
 
- sudo apt install libcglm-dev
+oh and also install libopengl
+```bask
+sudo apt install libopengl-dev libglew-dev libglfw3-dev libcglm-dev
+```
