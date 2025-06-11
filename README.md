@@ -11,7 +11,10 @@ Also, why is it so hard to find OpenGL projects in C? It's genuinely dishearteni
 
 ![](https://github.com/usesc/cube-opengl/blob/main/res/ogl.png)
 
-Want to remove wireframe and have a regular filled cube? Just erase line 185!
+Want to remove wireframe and have a regular filled cube? Just erase this line!
+```c
+glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
+```
 
 DEPENDENCIES:
 - Modern C compiler (GCC, Clang, etc)
