@@ -22,11 +22,11 @@ DEPENDENCIES:
 - GLEW
 - Make (Build system)
 
-I VERY STRONGLY RECOMMEND USING YOUR OPERATING SYSTEMS PACKAGE MANAGER, IF YOUR ON WINDOWS JUST USE MSYS2 MINGW.
+I very strongly recommend using your operating systems package manager, if your on windows just use MSYS2 MinGW. Building libraries is just too much of a hassle nowadays, especially since everything requires Cmake.
 
 Anyway heres how to install cglm, glew, glfw for ubuntu (apt)
 
-oh and also install libopengl
+also install libopengl
 ```bask
 sudo apt install libopengl-dev libglew-dev libglfw3-dev libcglm-dev
 ```
