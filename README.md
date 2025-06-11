@@ -7,6 +7,8 @@ Also, why is it so hard to find OpenGL projects in C? It's genuinely dishearteni
 
 ![](https://github.com/usesc/cube-opengl/blob/main/res/ogl.gif)
 
+(Colors more vibrant IRL, i used a low quality webm to gif converter online)
+
 ![](https://github.com/usesc/cube-opengl/blob/main/res/ogl.png)
 
 Want to remove wireframe and have a regular filled cube? Just erase line 185!
