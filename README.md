@@ -5,7 +5,7 @@ I haven't deliberated over the code that much, meaning im not sure if it leaks m
 
 Also, why is it so hard to find OpenGL projects in C? It's genuinely disheartening.
 
-![](https://github.com/usesc/cube-opengl/blob/main/res/ogl.gif)
+![](https://github.com/usesc/cube-opengl/blob/main/res/demo3.gif)
 
 (Colors more vibrant IRL, i used a low quality webm to gif converter online)
 
