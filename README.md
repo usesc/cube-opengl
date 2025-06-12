@@ -11,11 +11,6 @@ Also, why is it so hard to find OpenGL projects in C? It's genuinely dishearteni
 
 ![](https://github.com/usesc/cube-opengl/blob/main/res/ogl.png)
 
-Want to remove wireframe and have a regular filled cube? Just erase this line!
-```c
-glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
-```
-
 DEPENDENCIES:
 - Modern C compiler (GCC, Clang, etc)
 - Modern C Standard Library
@@ -30,6 +25,11 @@ I very strongly recommend using your operating systems package manager, if your 
 Anyway heres how to install cglm, glew, glfw for ubuntu (apt)
 
 also install libopengl
-```bask
+```bash
 sudo apt install libopengl-dev libglew-dev libglfw3-dev libcglm-dev
+```
+
+Currently I get a libdecor error when i try to run it, this in the console to switch to a more stable X11:
+```bash
+XDG_SESSION_TYPE=x11
 ```
