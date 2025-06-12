@@ -1,4 +1,4 @@
-# cube-opengl
+# cube-opengl v1
 Cube in Modern OpenGL - Wireframe (because wireframe is cool) Whats even cooler is that its in C
 
 I haven't deliberated over the code that much, meaning im not sure if it leaks memory, if I had to guess i'd say it probably doesnt.
