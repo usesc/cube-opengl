@@ -31,7 +31,7 @@ also install libopengl
 sudo apt install libopengl-dev libglew-dev libglfw3-dev libcglm-dev
 ```
 
-Currently I get a libdecor error when i try to run it, this in the console to switch to a more stable X11:
+Currently I get a libdecor error when i try to run it, run this in the console to switch to a more stable X11:
 ```bash
 XDG_SESSION_TYPE=x11
 ```
