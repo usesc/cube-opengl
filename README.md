@@ -1,10 +1,7 @@
 # cube-opengl v2
-Cube in Modern OpenGL - Wireframe (because wireframe is cool) Whats even cooler is that its in C
-
+Cube in Modern OpenGL
 
 ![](https://github.com/usesc/cube-opengl/blob/main/res/demo3.gif)
-
-(Colors more vibrant IRL, i used a low quality webm to gif converter online)
 
 ![](https://github.com/usesc/cube-opengl/blob/main/res/ogl.png)
 
@@ -17,8 +14,6 @@ DEPENDENCIES:
 - GLEW
 - Make (Build system)
 
-I very strongly recommend using your operating systems package manager, if your on windows just use MSYS2 MinGW. Building libraries is just too much of a hassle nowadays, especially since everything requires Cmake.
-
 Anyway heres how to install cglm, glew, glfw for ubuntu (apt)
 
 also install libopengl
@@ -26,7 +21,7 @@ also install libopengl
 sudo apt install libopengl-dev libglew-dev libglfw3-dev libcglm-dev
 ```
 
-Currently I get a libdecor error when i try to run it, run this in the console to switch to a more stable X11:
+Currently I get a libdecor error when i try to run it, run this in the console if this happens:
 ```bash
 XDG_SESSION_TYPE=x11
 ```
