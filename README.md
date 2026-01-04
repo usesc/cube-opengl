@@ -1,6 +1,8 @@
 # cube-opengl v2
 Cube in Modern OpenGL
 
+UPDATE: This code is bad, I made a better version, I am too lazy to post it
+
 ![](https://github.com/usesc/cube-opengl/blob/main/res/demo3.gif)
 
 ![](https://github.com/usesc/cube-opengl/blob/main/res/ogl.png)
